@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Código bits**
 
-- 📝 Escribo regularmente artículos sobre [https://www.talent-republic.tv/author/cesar-garcia-c/](https://www.talent-republic.tv/author/cesar-garcia-c/)
+- 📝 Escribo regularmente artículos en [https://www.talent-republic.tv/author/cesar-garcia-c/](https://www.talent-republic.tv/author/cesar-garcia-c/)
 
 - 💬 Pregúntame sobre **java**
 
