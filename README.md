@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, Soy César</h1>
 <h3 align="center">Un apasionado desarrollador frontend de México</h3>
 
-- 🔭 actualmente estoy trabajando en **Código bits**
+- 🔭 Actualmente estoy trabajando en **Código bits**
 
-- 📝 escribo regularmente artículos sobre [https://www.talent-republic.tv/author/cesar-garcia-c/](https://www.talent-republic.tv/author/cesar-garcia-c/)
+- 📝 Escribo regularmente artículos sobre [https://www.talent-republic.tv/author/cesar-garcia-c/](https://www.talent-republic.tv/author/cesar-garcia-c/)
 
 - 💬 Pregúntame sobre **java**
 
