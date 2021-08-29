@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Soy César 👋</h1>
+<h1 align="center">Hi! I'm César 👋</h1>
 <h3 align="center">Un apasionado desarrollador frontend de México</h3>
 
 - ⚡ Community leader **Código bits**
