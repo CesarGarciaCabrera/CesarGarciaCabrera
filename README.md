@@ -1,17 +1,17 @@
 <h1 align="center">Hola! Soy César 👋</h1>
 <h3 align="center">Un apasionado desarrollador frontend de México</h3>
 
-- ⚡ Lider de la comunidad **Código bits**
+- ⚡ Community leader **Código bits**
 
-- 📝 Escribo regularmente artículos en [https://www.talent-republic.tv/author/cesar-garcia-c/](https://www.talent-republic.tv/author/cesar-garcia-c/)
+- 📝 I regularly write articles on [https://www.talent-republic.tv/author/cesar-garcia-c/](https://www.talent-republic.tv/author/cesar-garcia-c/)
 
-- 💬 Pregúntame sobre **java**
+- 💬 Ask me about **java**
 
-- 📫 Cómo contactarme **cesargc@codigobits.com**
+- 📫 Contact me **cesargc@codigobits.com**
 
-- 📄 Conoce mis experiencias [https://www.linkedin.com/in/cesar-garcia-cabrera/](https://www.linkedin.com/in/cesar-garcia-cabrera/)
+- 📄 Know my experiences [https://www.linkedin.com/in/cesar-garcia-cabrera/](https://www.linkedin.com/in/cesar-garcia-cabrera/)
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cesar-garcia-cabrera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cesar-garcia-cabrera/" height="30" width="40"
 /></a> <a href="https://instagram.com/https://www.instagram.com/codigobits/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codigobits/" height="30" width="40" /></a>
