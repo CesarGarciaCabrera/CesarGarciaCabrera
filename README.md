@@ -5,8 +5,6 @@
 
 - 📝 I regularly write articles on [https://www.talent-republic.tv/author/cesar-garcia-c/](https://www.talent-republic.tv/author/cesar-garcia-c/)
 
-- 💬 Ask me about **java**
-
 - 📫 Contact me **cesargc@codigobits.com**
 
 - 📄 Know my experiences [https://www.linkedin.com/in/cesar-garcia-cabrera/](https://www.linkedin.com/in/cesar-garcia-cabrera/)
