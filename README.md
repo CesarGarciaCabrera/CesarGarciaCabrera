@@ -1,13 +1,11 @@
-<h1 align="center">Hi! I'm César 👋</h1>
+<h1 align="center">Hola! Soy César 👋</h1>
 <h3 align="center">Un apasionado desarrollador frontend de México</h3>
 
-- ⚡ Community leader **Código bits**
+- ⚡ Líder de la comunidad **Código bits**
 
-- 📝 I regularly write articles on [https://www.talent-republic.tv/author/cesar-garcia-c/](https://www.talent-republic.tv/author/cesar-garcia-c/)
+- 📫 Contact me **cesargarciacabreratec@gmail.com**
 
-- 📫 Contact me **cesargc@codigobits.com**
-
-- 📄 Know my experiences [https://www.linkedin.com/in/cesar-garcia-cabrera/](https://www.linkedin.com/in/cesar-garcia-cabrera/)
+- 📄 Esta es mi experiencia actual [https://www.linkedin.com/in/cesar-garcia-cabrera/](https://www.linkedin.com/in/cesar-garcia-cabrera/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
