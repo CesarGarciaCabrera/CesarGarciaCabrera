@@ -13,7 +13,8 @@
 </div>
 
 
-<h2>About Me</h2>
+<h2>About me</h2>
+
 
 
 <h2>Programming Languages and Technologies I know</h2>
@@ -28,6 +29,15 @@
 </div>
 
 <h2>Hackathones</h2>
+<ul>
+  <h4>2021</h4>
+  <li>HackMX | Tecnológico de Monterrey</li>
+  <li>Hackathon AMI | UNESCO</li>
+  <li>Hackathon BBVA Open Innovation</li>
+  <h4>2022</h4>
+  <li>PoliHacks | IPN</li>
+  <li>Talent Hackathon | Talent Network</li>
+<ul>
 
 <h2>Conferencias</h2>
 
