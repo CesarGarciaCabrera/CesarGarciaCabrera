@@ -1,5 +1,4 @@
 <h1 align="center">Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> </h1>
-<h4 align="center">☕Java Developer | 🚀Organizer GDG Orizaba | ⚡Leader Código bits | 💻Microsoft Learn Student Ambassador</h4>
 
 <div align="center">
 <a  href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=cesargarciacabreratec@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/-Email-0A2699?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -16,7 +15,9 @@
 <h2>About me</h2>
 <ul>
   <li>☕Java Developer</li>
-  <li>⚡Leader Código bits: <a href="http://beacons.ai/codigo_bits/" target="_blank">More information</a></li>
+  <li>⚡Leader <a href="http://beacons.ai/codigo_bits/" target="_blank">Código bits</a></li>
+  <li>⚡Organizer <a href="https://gdg.community.dev/gdg-orizaba-1/" target="_blank">GDG Orizaba</a></li>
+  <li>💻<a href="https://studentambassadors.microsoft.com/es-ES/studentambassadors/profile/4f08f343-515f-47a5-b274-f5863b9d70a4" target="_blank">Microsoft Learn Student Ambassador</a></li>
 </ul>
 
 
