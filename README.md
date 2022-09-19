@@ -11,15 +11,17 @@
 <a  href="https://www.youtube.com/c/CodigoBits"  target="_blank"><img  src="https://img.shields.io/badge/YouTube-D02929?style=for-the-badge&logo=youtube&logoColor=white" alt=youtube ></a>
 </div>
 
+<img align="right" alt="perfil" src="Perfil-01" width="400" height="400" />
 
 <h2>About me</h2>
 <ul>
   <li>☕Java Developer</li>
   <li>⚡Leader <a href="http://beacons.ai/codigo_bits/" target="_blank">Código bits</a></li>
-  <li>⚡Organizer <a href="https://gdg.community.dev/gdg-orizaba-1/" target="_blank">GDG Orizaba</a></li>
+  <li>🚀Organizer <a href="https://gdg.community.dev/gdg-orizaba-1/" target="_blank">GDG Orizaba</a></li>
   <li>💻<a href="https://studentambassadors.microsoft.com/es-ES/studentambassadors/profile/4f08f343-515f-47a5-b274-f5863b9d70a4" target="_blank">Microsoft Learn Student Ambassador</a></li>
+  <li>Ambassador Talent Network</li>
+  <li>Mentor & Speaker</li>
 </ul>
-
 
 <h2>Programming Languages and Technologies I know</h2>
 <div align="center">
