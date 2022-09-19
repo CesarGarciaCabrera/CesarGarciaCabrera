@@ -23,8 +23,7 @@
 </div>
 
 <h2>My Contributions</h2>
-https://raw.githubusercontent.com/CesarGarciaCabrera/CesarGarciaCabrera/output/github-contribution-grid-snake.svg
-https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg
+<img width="100%" alt="My Contributions" src="https://raw.githubusercontent.com/CesarGarciaCabrera/CesarGarciaCabrera/output/github-contribution-grid-snake.svg"/>
 
 <h2></h2>
 <p align="center">
