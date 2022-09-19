@@ -23,8 +23,7 @@
 </div>
 
 <h2>My Contributions</h2>
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2
+
   
 <h2></h2>
 <p align="center">
