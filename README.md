@@ -22,6 +22,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
 </div>
 
+<h2></h2>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=CesarGarciaCabrera&style=flat-square&color=0A2699" alt="Visitors Badge"/>
+<img src="https://komarev.com/ghpvc/?username=CesarGarciaCabrera&style=flat-square&color=0DDD00" alt="Visitors Badge"/>
 </p>
