@@ -73,7 +73,7 @@
   <li>🎙️</li>
   <li>🎙️</li>
 -->
-<ul>
+</ul>
   
 <h2>My Contributions</h2>
 <img src="https://github.com/CesarGarciaCabrera/CesarGarciaCabrera/blob/output/github-contribution-grid-snake.gif" />
