@@ -24,8 +24,11 @@
 
 <h2>My Contributions</h2>
 <img width="100%" alt="Developer Illustration" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Illustration.gif"/>
-<img width="100%" alt="Developer Illustration" src="https://platane.github.io/snk/"/>
-<img width="100%" alt="Developer Illustration" src="https://platane.github.io/snk/CesarGarciaCabrera"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/CesarGarciaCabrera/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/CesarGarciaCabrera/CesarGarciaCabrera/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/CesarGarciaCabrera/snk/output/github-contribution-grid-snake.svg"/>
+
 
 <h2></h2>
 <p align="center">
