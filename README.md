@@ -11,7 +11,7 @@
 <a  href="https://www.youtube.com/c/CodigoBits"  target="_blank"><img  src="https://img.shields.io/badge/YouTube-D02929?style=for-the-badge&logo=youtube&logoColor=white" alt=youtube ></a>
 </div>
 
-<img align="right" alt="perfil" src="Perfil-01" width="400" height="400" />
+<img align="right" alt="perfil" src="Perfil-02.jpg" width="400" height="400" />
 
 <h2>About me</h2>
 <ul>
