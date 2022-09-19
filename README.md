@@ -16,14 +16,14 @@
 <h2>About me</h2>
 <ul>
   <li>☕Java Developer</li>
-  <li>⚡Leader Código bits: http://beacons.ai/codigo_bits/</li>
-<ul>
+  <li>⚡Leader Código bits: <a href="http://beacons.ai/codigo_bits/" target="_blank">More information</a></li>
+</ul>
 
 
 <h2>Programming Languages and Technologies I know</h2>
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg" alt="springboot" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
@@ -41,7 +41,7 @@
   <h4>2022</h4>
   <li>PoliHacks | IPN</li>
   <li>Talent Hackathon | Talent Network</li>
-<ul>
+</ul>
 
 <h2>Conferencias</h2>
 
