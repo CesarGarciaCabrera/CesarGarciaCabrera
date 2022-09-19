@@ -1,6 +1,5 @@
 <h1 align="center">Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> </h1>
-<br>
-<br>
+
 <div align="center">
 <a  href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=cesargarciacabreratec@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/-Email-0A2699?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/cesar-garcia-cabrera/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
@@ -11,7 +10,8 @@
 </a>
 <a  href="https://www.youtube.com/c/CodigoBits"  target="_blank"><img  src="https://img.shields.io/badge/YouTube-D02929?style=for-the-badge&logo=youtube&logoColor=white" alt=youtube ></a>
 </div>
-
+<br>
+<br>
 <img align="right" alt="perfil" src="Perfil-02.jpg" width="400" height="400" />
 
 <h2>About me</h2>
