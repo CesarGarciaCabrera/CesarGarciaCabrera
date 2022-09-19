@@ -28,13 +28,16 @@
 <h2>Programming Languages and Technologies I know</h2>
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40" />
 </div>
 
 <h2>Mentor | Hackathones</h2>
@@ -47,10 +50,13 @@
   <h3>2022</h3>
   <li>🎖️PoliHacks | IPN</li>
   <li>🎖️Talent Hackathon | Talent Network</li>
-</ul>
+  <!-- Próximos hackathones
+  <li>🎖️</li>
+  <li>🎖️</li>
+-->
 </ul>
 
-<h2>Conferencias</h2>
+<h2>Conferences</h2>
 <!-- Buscar íconos de cada organización-->
 <ul>
   <h3>2021</h3>
@@ -67,7 +73,8 @@
   <li>🎙️</li>
   <li>🎙️</li>
 -->
-
+<ul>
+  
 <h2>My Contributions</h2>
 <img src="https://github.com/CesarGarciaCabrera/CesarGarciaCabrera/blob/output/github-contribution-grid-snake.gif" />
 <!-- https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
