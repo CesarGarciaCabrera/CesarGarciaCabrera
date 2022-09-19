@@ -41,6 +41,19 @@
 <!-- Buscar íconos de cada organización-->
 <ul>
   <h3>2021</h3>
+  <li>🎖️HackMX | Tecnológico de Monterrey</li>
+  <li>🎖️Hackathon AMI | UNESCO</li>
+  <li>🎖️Hackathon BBVA Open Innovation</li>
+  <h3>2022</h3>
+  <li>🎖️PoliHacks | IPN</li>
+  <li>🎖️Talent Hackathon | Talent Network</li>
+</ul>
+</ul>
+
+<h2>Conferencias</h2>
+<!-- Buscar íconos de cada organización-->
+<ul>
+  <h3>2021</h3>
   <li>🎙️Tips para programadores junior | GDSC LATAM</li>
   <li>🎙️Diseño de interfaces para apps móviles | GDSC UV</li>
   <li>🎙️Master Class en Python | IEEE TecNM Campus Iztapalapa III</li>
@@ -54,18 +67,6 @@
   <li>🎙️</li>
   <li>🎙️</li>
 -->
-</ul>
-
-<h2>Conferencias</h2>
-<ul>
-  <h3>2021</h3>
-  <li>🎖️HackMX | Tecnológico de Monterrey</li>
-  <li>🎖️Hackathon AMI | UNESCO</li>
-  <li>🎖️Hackathon BBVA Open Innovation</li>
-  <h3>2022</h3>
-  <li>🎖️PoliHacks | IPN</li>
-  <li>🎖️Talent Hackathon | Talent Network</li>
-</ul>
 
 <h2>My Contributions</h2>
 <img src="https://github.com/CesarGarciaCabrera/CesarGarciaCabrera/blob/output/github-contribution-grid-snake.gif" />
