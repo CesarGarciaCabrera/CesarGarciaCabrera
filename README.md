@@ -40,7 +40,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40" />
 </div>
 
-<h2>Mentor | Hackathones</h2>
+<h2>Mentor | Hackathons</h2>
 <!-- Buscar íconos de cada organización-->
 <ul>
   <h3>2021</h3>
