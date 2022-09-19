@@ -1,7 +1,7 @@
 name: generate-snake-game-from-github-contribution-grid
 uses: Platane/snk@v2.0.0-rc.2
 
-Controls when the action will run. This action runs every 6 hours.
+# Controls when the action will run. This action runs every 6 hours.
 
 on:
   schedule:
