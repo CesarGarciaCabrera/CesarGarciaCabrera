@@ -16,12 +16,13 @@
 
 <h2>About me</h2>
 <ul>
+  <li>❤️God 1st</li>
   <li>☕Java Developer</li>
   <li>⚡Leader <a href="http://beacons.ai/codigo_bits/" target="_blank">Código bits</a></li>
   <li>🚀Organizer <a href="https://gdg.community.dev/gdg-orizaba-1/" target="_blank">GDG Orizaba</a></li>
   <li>💻<a href="https://studentambassadors.microsoft.com/es-ES/studentambassadors/profile/4f08f343-515f-47a5-b274-f5863b9d70a4" target="_blank">Microsoft Learn Student Ambassador</a></li>
-  <li>Ambassador Talent Network</li>
-  <li>Mentor & Speaker</li>
+  <li>💡Ambassador Talent Network</li>
+  <li>🎙️Mentor & Speaker</li>
 </ul>
 
 <h2>Programming Languages and Technologies I know</h2>
@@ -37,17 +38,34 @@
 </div>
 
 <h2>Mentor | Hackathones</h2>
+<!-- Buscar íconos de cada organización-->
 <ul>
-  <h4>2021</h4>
-  <li>HackMX | Tecnológico de Monterrey</li>
-  <li>Hackathon AMI | UNESCO</li>
-  <li>Hackathon BBVA Open Innovation</li>
-  <h4>2022</h4>
-  <li>PoliHacks | IPN</li>
-  <li>Talent Hackathon | Talent Network</li>
+  <h3>2021</h3>
+  <li>🎙️Tips para programadores junior | GDSC LATAM</li>
+  <li>🎙️Diseño de interfaces para apps móviles | GDSC UV</li>
+  <li>🎙️Master Class en Python | IEEE TecNM Campus Iztapalapa III</li>
+  <h3>2022</h3>
+  <li>🎙️Cuando un NO se convierte en una "oportunidad" | TecNM Campus Piedras Negras</li>
+  <li>🎙️¿Cómo empezar en el desarrollo móvil? | CBTis No. 142</li>
+  <li>🎙️¿Cómo empezar en el desarrollo Android? | Google IO Extended Latam</li>
+  <li>🎙️El camino de la programación | Colegio Cervantes</li>
+  <li>🎙️¿Cómo iniciar mi camino en la programación? | Nova Tech Community</li>
+  <!-- Próximas charlas
+  <li>🎙️</li>
+  <li>🎙️</li>
+-->
 </ul>
 
 <h2>Conferencias</h2>
+<ul>
+  <h3>2021</h3>
+  <li>🎖️HackMX | Tecnológico de Monterrey</li>
+  <li>🎖️Hackathon AMI | UNESCO</li>
+  <li>🎖️Hackathon BBVA Open Innovation</li>
+  <h3>2022</h3>
+  <li>🎖️PoliHacks | IPN</li>
+  <li>🎖️Talent Hackathon | Talent Network</li>
+</ul>
 
 <h2>My Contributions</h2>
 <img src="https://github.com/CesarGarciaCabrera/CesarGarciaCabrera/blob/output/github-contribution-grid-snake.gif" />
