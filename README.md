@@ -23,8 +23,9 @@
 </div>
 
 <h2>My Contributions</h2>
-<img width="100%" alt="My Contributions" src="https://raw.githubusercontent.com/CesarGarciaCabrera/CesarGarciaCabrera/output/github-contribution-grid-snake.svg"/>
-
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.0.0-rc.2
+  
 <h2></h2>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=CesarGarciaCabrera&style=flat-square&color=0DDD00" alt="Visitors Badge"/>
