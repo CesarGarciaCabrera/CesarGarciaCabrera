@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> </h1>
-<h4 align="center">☕Java Developer | 🚀Organizer GDG Orizaba | ⚡Leader Código bits | Microsoft Learn Student Ambassador</h4>
+<h4 align="center">☕Java Developer | 🚀Organizer GDG Orizaba | ⚡Leader Código bits | 💻Microsoft Learn Student Ambassador</h4>
 
 <div align="center">
 <a  href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=cesargarciacabreratec@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/-Email-0A2699?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -11,6 +11,10 @@
 </a>
 <a  href="https://www.youtube.com/c/CodigoBits"  target="_blank"><img  src="https://img.shields.io/badge/YouTube-D02929?style=for-the-badge&logo=youtube&logoColor=white" alt=youtube ></a>
 </div>
+
+
+<h2>About Me</h2>
+
 
 <h2>Programming Languages and Technologies I know</h2>
 <div align="center">
@@ -26,8 +30,6 @@
 <h2>Hackathones</h2>
 
 <h2>Conferencias</h2>
-
-<h2></h2>
 
 <h2>My Contributions</h2>
 <img src="https://github.com/CesarGarciaCabrera/CesarGarciaCabrera/blob/output/github-contribution-grid-snake.gif" />
